@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\bin\Debug\net6.0\Proje-Sessiz-Harf.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\bin\Debug\net6.0\Proje-Sessiz-Harf.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\bin\Debug\net6.0\Proje-Sessiz-Harf.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\bin\Debug\net6.0\Proje-Sessiz-Harf.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\bin\Debug\net6.0\Proje-Sessiz-Harf.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\refint\Proje-Sessiz-Harf.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\Proje-Sessiz-Harf.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Sessiz-Harf\obj\Debug\net6.0\ref\Proje-Sessiz-Harf.dll
